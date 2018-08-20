@@ -1,0 +1,24 @@
+{
+  "name": "MonitorSystem.ServiceMessage",
+  "version": "1.0.0",
+  "description": "Message service responsible for receive datas of clients desktops and send infomation for front end in realtime.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BrunoDSouza/MonitorSystem.ServiceMessage.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BrunoDSouza/MonitorSystem.ServiceMessage/issues"
+  },
+  "homepage": "https://github.com/BrunoDSouza/MonitorSystem.ServiceMessage#readme",
+  "dependencies": {
+    "@aspnet/signalr": "^1.0.2",
+    "signalr-no-jquery": "^0.1.8"
+  }
+}

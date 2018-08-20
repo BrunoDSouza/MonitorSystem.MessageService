@@ -1,0 +1,12 @@
+# folder solutions
+Debug/
+bin/
+obj/
+Temp/
+.vs/
+node_modules/
+
+# extensions for files
+*.pbd
+*.suo
+
